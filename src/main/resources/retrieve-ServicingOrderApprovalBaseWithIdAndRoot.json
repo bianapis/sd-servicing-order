@@ -1,0 +1,10 @@
+{
+  "servicingOrderReference" : "SOR123",
+  "servicingOrderApprovalsReference" : "SOAR98787",
+  "customerProductServiceEntitlement" : {},
+  "customerReference" : "Request Order",
+  "thirdPartyServicingMandateReference" : "Thired Party vendor",
+  "servicingOrderApprovalsRecord" : {},
+  "thirdPartyServicingMandate" : {},
+  "thirdPartyReference" : "Third Party"
+}

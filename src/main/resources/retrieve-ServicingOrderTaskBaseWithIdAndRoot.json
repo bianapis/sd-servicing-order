@@ -1,0 +1,10 @@
+{
+  "workTaskReference" : "WTREF823928",
+  "workTaskDescription" : "workTaskDescription",
+  "workTaskType" : "Document check",
+  "servicingOrderReference" : "SOREF8439",
+  "servicingOrderType" : "Change Address",
+  "workTaskRecord" : {},
+  "servicingOrderRecord" : {},
+  "servicingOrderDescription" : {}
+}
